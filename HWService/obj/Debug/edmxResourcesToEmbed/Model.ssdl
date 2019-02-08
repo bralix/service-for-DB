@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="imgVK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="index" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="img" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="linkVK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="index" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="link" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="textVK">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="index" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="text" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="imgVK" EntityType="Self.imgVK" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="linkVK" EntityType="Self.linkVK" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="textVK" EntityType="Self.textVK" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

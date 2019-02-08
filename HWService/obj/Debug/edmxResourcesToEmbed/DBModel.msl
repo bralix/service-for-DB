@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="DBEntities">
+    <EntitySetMapping Name="imgVK">
+      <EntityTypeMapping TypeName="DBModel.imgVK">
+        <MappingFragment StoreEntitySet="imgVK">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="index" ColumnName="index" />
+          <ScalarProperty Name="img" ColumnName="img" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="linksVK">
+      <EntityTypeMapping TypeName="DBModel.linksVK">
+        <MappingFragment StoreEntitySet="linksVK">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="index" ColumnName="index" />
+          <ScalarProperty Name="link" ColumnName="link" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="textVK">
+      <EntityTypeMapping TypeName="DBModel.textVK">
+        <MappingFragment StoreEntitySet="textVK">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="index" ColumnName="index" />
+          <ScalarProperty Name="text" ColumnName="text" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

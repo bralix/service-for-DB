@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.InstallLog
+   assemblypath = C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe
+Устанавливается служба HWService...
+Служба HWService успешно установлена.
+Создается исходный EventLog HWService в журнале Homework Service...
+Выполняется фиксация сборки 'C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.InstallLog
+   assemblypath = C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe

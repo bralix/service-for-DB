@@ -1,0 +1,17 @@
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe.config
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.exe
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\HWService.pdb
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.ProjectInstaller.resources
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.Service1.resources
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.csproj.GenerateResource.cache
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.exe
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.pdb
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\EntityFramework.dll
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\EntityFramework.xml
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Александр\Downloads\Projects\Test — копия\HWService\obj\Debug\HWService.csproj.CopyComplete
